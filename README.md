@@ -1,17 +1,14 @@
 Things I use almost every day:
 
 **Coding Languages:**
-
-Python3 
-
-SQL (specifically SQlite)
+- Python3 
+- SQL (specifically SQlite)
 
 
 **Programs:**
+- [Atom Editor](https://atom.io/) (this is where I write python scripts and even plain text research notes)
 
-[Atom Editor](https://atom.io/) (this is where I write python scripts and even plain text research notes)
-
-[DB Browser for SQLite](https://sqlitebrowser.org/) (program where I can work w GUI to view tables, edit cells, etc w/o always using the command line)
+- [DB Browser for SQLite](https://sqlitebrowser.org/) (program where I can work w GUI to view tables, edit cells, etc w/o always using the command line)
 
 *Both of these programs are completely free and open source*
 
