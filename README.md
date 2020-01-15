@@ -28,14 +28,11 @@ I learned a lot of the basic syntax for both Python and SQL here from [Codecadem
 - [The Programming Historian: Intro to Beautiful Soup anf Webscraping](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup#get-a-webpage-to-scrape)
 - [Scrape Wikipedia with Python](https://roche.io/2016/05/scrape-wikipedia-with-python)
 
-
 **Thinking about queries in SQLite:**
 - [Query Planner](https://www.sqlite.org/queryplanner.html)
 
-
 **Archival Research Example Workflows:**
 - https://zacharyschrag.com/research/my-quirky-workflow/
-
 
 **Additional Resources I need to categorize still:**
 - http://thiagomarzagao.com/2013/11/12/webscraping-with-selenium-part-1/
