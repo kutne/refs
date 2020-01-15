@@ -10,7 +10,7 @@ Things I use almost every day:
 
 - [DB Browser for SQLite](https://sqlitebrowser.org/) (program where I can work w GUI to view tables, edit cells, etc w/o always using the command line)
 
-*Both of these programs are completely free and open source*
+   *Both of these programs are completely free and open source*
 
 I learned a lot of the basic syntax for both Python and SQL here from [Codecademy](https://www.codecademy.com). The [intro to SQL](https://www.codecademy.com/learn/learn-sql) is available without a subscription. Currently the basic Python2 course is free but [Python3](https://www.codecademy.com/learn/learn-python-3) requires a subscription. If you want you can do a free trial or start with Python2 (just keep in mind it's an earlier version and that there have been some changes), but you can also get started right away with some of these other tutorials and resources below.
 
