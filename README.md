@@ -18,7 +18,7 @@ I learned a lot of the basic syntax for both Python and SQL here from [Codecadem
 
 **Good tutorials:**
 - [Installing Python](https://realpython.com/installing-python/)
-- [Practical programming for total beginners](]https://automatetheboringstuff.com/) (possibly my favorite resource)
+- [Practical programming for total beginners](https://automatetheboringstuff.com/) (possibly my favorite resource)
 - [Using Python with SQLite](http://zetcode.com/db/sqlitepythontutorial/) (uses Python2 instead of Python3)
 - [Python Web Scraping Using BeautifulSoup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
