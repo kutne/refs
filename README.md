@@ -33,7 +33,7 @@ I learned a lot of the basic syntax for both Python and SQL here from [Codecadem
 - [SQLite Query Planner](https://www.sqlite.org/queryplanner.html)
 - [Working with CSV files: Excel vs Python](https://www.dataquest.io/blog/excel-vs-python/)
 - [The Programming Historian: Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
-- [Data Carpentry for Social Scientists](https://datacarpentry.org/sql-socialsci/)
+- [Data Carpentry: Data Management with SQL for Social Scientists](https://datacarpentry.org/sql-socialsci/)
   - sub section specifically on [using DB Browser for SQLite](https://datacarpentry.org/sql-socialsci/02-db-browser/index.html)
 
 **Webscraping with BeautifulSoup4**
