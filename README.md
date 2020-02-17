@@ -35,6 +35,7 @@ I learned a lot of the basic syntax for both Python and SQL here from [Codecadem
 - [The Programming Historian: Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine)
 - [Data Carpentry: Data Management with SQL for Social Scientists](https://datacarpentry.org/sql-socialsci/)
   - sub section specifically on [using DB Browser for SQLite](https://datacarpentry.org/sql-socialsci/02-db-browser/index.html)
+- [Joins in SQLite](https://www.sqlitetutorial.net/sqlite-join/)
 
 **Webscraping with BeautifulSoup4**
 - [Library Carpentry: Introduction to webscraping](https://librarycarpentry.org/lc-webscraping/)
