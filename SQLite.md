@@ -18,4 +18,15 @@ You can view descriptions of the tables [here](https://www.sqlitetutorial.net/sq
   1. Try using the wildcards with the [LIKE](https://www.sqlitetutorial.net/sqlite-like/) operator
 Whenever I need to figure out how to write a SQLite statement to execute, this tutorial is one of my first stops.
 
-### 4. 
+### 4. Read about the [database design](http://www.mappingsenufo.org/database-design) for the "MAPPING SENUFO: ART AND PLACE IN A DYNAMIC WEST AFRICAN REGION" project  
+   - How did this project accomodate uncertainties like variant spelling?
+   - Where did this project use [many-to-many](https://en.wikipedia.org/wiki/Many-to-many_(data_model)) relationships?  
+  
+![mapping senufo database diagram](http://www.mappingsenufo.org/wp-content/uploads/2016/12/Figure3_Senufo_diagram-2.jpg)  
+
+### 5. Plan your potential database.  
+   - Don't forget to include primary keys!  
+   - Identify what information you might include in each table and the type of data (integer, datetime, etc)  
+   - Draw lines between tables to show likely relationships  
+   - Consider where you might need m2m (many-to-many) relationships
+  
