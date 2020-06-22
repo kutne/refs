@@ -1,6 +1,8 @@
 # Python & SQLite
 
-![xkcd:python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxkcd.com%2F353%2F&psig=AOvVaw0h3XKthjLVdeXZrzHPneJb&ust=1592947415701000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLixmruuluoCFQAAAAAdAAAAABAH)
+<p align="center">
+![sqlite python image](https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg)
+</p>  
 
 After you feel a small bit more with relational databases, I recommend learning a bit of Python for 2 main reasons:
 1. Automation. You can use Python to do pretty much **anything**, but it's particularly useful or things you find yourself doing over and over and over again.
@@ -12,10 +14,13 @@ After you feel a small bit more with relational databases, I recommend learning 
     1. open local files on your computer relevant to your database without you having to find them
 1. You can build a user interface with [Django](https://www.djangoproject.com/)
 
+![xkcd:python](https://imgs.xkcd.com/comics/python.png)  
+[xkcd:python](https://xkcd.com/353/)
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit...
 
-![sqlite python image](https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg)
+
+
 
 ### 1. Getting Set Up
    - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
