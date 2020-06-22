@@ -17,13 +17,19 @@ But let's not get ahead of ourselves. First we need to set up Python and play ar
    - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
    - Choose and install a [text editor](https://realpython.com/python-ides-code-editors-guide/#general-editors-and-ides-with-python-support) to write and save your code in. (I use and recommend [Atom](https://atom.io/), which is free.)
 
-### 2. Practical Skills for Total Python Novices
-I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/). While you can purchase the actual book, all of the lessons and related files are available 100% for free on his website. I return to this resource over and over again.
+### 2. Get Started Immediately with Practical Skills 
+I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/). 
+![automate the boring stuff with Python](https://automatetheboringstuff.com/images/automate2_small_cover.png)
 
-#### Part 1: Python Programming Basics
-   - Python Basics
-   - Flow Control
-   - Functions
-   - List 
-   - Dictionaries and Structuring Data (for some reason it tok me AGES to wrap my head around using dictionaries in Python, so if you're feeling a bit stumped skip this one for now)
-   - Manipulation Strings
+All of the lessons and related files are available 100% for free on his website. I return to this resource over and over again. Since DOING ALL THE THINGS is probably intimidating, I've flagged below the tutorials that will most effectively help you get your Python sea-legs IMHO. I recommend completing these brief tutorials **in the order given below**.
+
+- Select portions in Part 1: Python Programming Basics
+   - [Basics](https://automatetheboringstuff.com/2e/chapter1/)
+   - [Flow](https://automatetheboringstuff.com/2e/chapter2/)
+   - [Functions](https://automatetheboringstuff.com/2e/chapter3/)
+   - [Lists](https://automatetheboringstuff.com/2e/chapter4/)
+   - [Manipulating Strings](https://automatetheboringstuff.com/2e/chapter6/)
+- Complete select portions in Part 2: Automating Tasks
+   - [Reading and Writing Files](https://automatetheboringstuff.com/2e/chapter9/)
+   - [Organizing Files](https://automatetheboringstuff.com/2e/chapter10/)
+   - [Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
