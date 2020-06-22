@@ -1,9 +1,5 @@
 # Python & SQLite
 
-<p align="center">
-<img src="https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg">
-</p>  
-
 Now that you've learned a bit about relational databases, I recommend learning a bit of Python for 2 main reasons:
 1. Automation. You can use Python to do pretty much **anything**, but it's particularly useful or things you find yourself doing over and over and over again.
     1. [insert information](https://www.sqlitetutorial.net/sqlite-python/insert/) into your database for you
@@ -51,14 +47,14 @@ All of the lessons and related files are available 100% for free on his website.
 
 ### 3. Build and manipulate your database with Python 
 
-<p align="center">
-    <a href="https://getpocket.com/explore/item/learning-to-code-is-easy-here-s-how-to-teach-yourself"><img src="https://pocket-image-cache.com/direct?resize=w2000&url=https%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fcoding-perception-vs-reality.png"></a>
-    </p>
-
 #### If you do NOT plan to use Django
 I recommend making use of these two tutorials together to create and manipulate a SQLite database file:
 - [SQlite Python](https://www.sqlitetutorial.net/sqlite-python/)
 - [A thorough guide to SQLite database operations in Python](https://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
+
+<p align="center">
+<img src="https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg">
+</p>  
 
 #### If you DO plan to use Django  
 While it is possible to use Django with a pre-existing database, I've found it a million times easier to use Django when I used Django to create the database. I recommend completing [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) through the end of the Part 4.
@@ -70,3 +66,7 @@ While it is possible to use Django with a pre-existing database, I've found it a
    - Use DB Browser open and view yourdatabase so you can spot check to see if it reflects the changes that you expect.
    - Keep in mind things will go wrong.  
    - You'll get error messages. Read the error messages- usually they will tell you which line in your code Python barfed at. Google error messages liberally - you almost certainly aren't the first person to be stumped by it.
+
+<p align="center">
+    <a href="https://getpocket.com/explore/item/learning-to-code-is-easy-here-s-how-to-teach-yourself"><img src="https://pocket-image-cache.com/direct?resize=w2000&url=https%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fcoding-perception-vs-reality.png"></a>
+    </p>
