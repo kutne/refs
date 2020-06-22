@@ -59,6 +59,10 @@ I recommend making use of these two tutorials together to create and manipulate 
 #### If you DO plan to use Django  
 While it is possible to use Django with a pre-existing database, I've found it a million times easier to use Django when I used Django to create the database. I recommend completing [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) through the end of the Part 4.
 
+<p align="center">
+<img src="https://miro.medium.com/max/1400/1*8Ya6KbfaTyDOSTwyY6kvug.png">  
+</p>  
+
 ### 4. Use the above tutorials as the foundation to create your own custom research database  
 - Take a look at your database original diagram. Based on what you've learned completing the above lessons, do you want to make any changes to it? If yes, do so now!
 - Using your diagram as a guide, create your database
