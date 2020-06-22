@@ -1,7 +1,7 @@
 # Python & SQLite
 
 <p align="center">
-![sqlite python image](https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg)
+<img src="https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg">
 </p>  
 
 After you feel a small bit more with relational databases, I recommend learning a bit of Python for 2 main reasons:
@@ -14,8 +14,10 @@ After you feel a small bit more with relational databases, I recommend learning 
     1. open local files on your computer relevant to your database without you having to find them
 1. You can build a user interface with [Django](https://www.djangoproject.com/)
 
-![xkcd:python](https://imgs.xkcd.com/comics/python.png)  
-[xkcd:python](https://xkcd.com/353/)
+<p align="center">
+<img src=https://imgs.xkcd.com/comics/python.png>
+    <a href="https://xkcd.com/353/">xkcd:python</a>
+</p>
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit...
 
