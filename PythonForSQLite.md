@@ -13,12 +13,14 @@ After you feel a small bit more with relational databases, I recommend learning 
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit...
 
+![sqlite python image](https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg)
+
 ### 1. Getting Set Up
    - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
    - Choose and install a [text editor](https://realpython.com/python-ides-code-editors-guide/#general-editors-and-ides-with-python-support) to write and save your code in. (I use and recommend [Atom](https://atom.io/), which is free.)
 
 ### 2. Get Started Immediately with Practical Skills 
-I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/). 
+I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/).   
 ![automate the boring stuff with Python](https://automatetheboringstuff.com/images/automate2_small_cover.png)
 
 All of the lessons and related files are available 100% for free on his website. I return to this resource over and over again. Since DOING ALL THE THINGS is probably intimidating, I've flagged below the tutorials that will most effectively help you get your Python sea-legs IMHO. I recommend completing these brief tutorials **in the order given below**.
@@ -33,3 +35,21 @@ All of the lessons and related files are available 100% for free on his website.
    - [Reading and Writing Files](https://automatetheboringstuff.com/2e/chapter9/)
    - [Organizing Files](https://automatetheboringstuff.com/2e/chapter10/)
    - [Web Scraping](https://automatetheboringstuff.com/2e/chapter12/)
+
+### 3. Build and manipulate your database with Python 
+
+#### - If you do NOT plan to use Django
+I recommend making use of these two tutorials together to create and manipulate a SQLite database file:
+- [SQlite Python](https://www.sqlitetutorial.net/sqlite-python/)
+- [A thorough guide to SQLite database operations in Python](https://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
+
+#### - If you DO plan to use Django  
+While it is possible to use Django with a pre-existing database, I've found it a million times easier to use Django when I used Django to create the database. I recommend completing [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) through the end of the Part 4.
+
+#### - Using DB Browser, you can spot check to see if your database reflects the changes that you expect.
+
+#### - Keep in mind things will go wrong.  
+You'll get error messages. Read the error messages- usually they will tell you which line in your code Python barfed at. Google error messages liberally - you almost certainly aren't the first person to be stumped by it.
+
+
+
