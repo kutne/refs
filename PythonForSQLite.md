@@ -1,4 +1,4 @@
-## Python & SQLite
+# Python & SQLite
 
 After you feel a small bit more with relational databases, I recommend learning a bit of Python for 2 main reasons:
 1. Automation. You can use Python to do pretty much **anything**, but it's particularly useful or things you find yourself doing over and over and over again.
@@ -11,8 +11,19 @@ After you feel a small bit more with relational databases, I recommend learning 
 1. You can build a user interface with [Django](https://www.djangoproject.com/)
 
 
-But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit.
+But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit...
 
 ### 1. Getting Set Up
    - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
    - Choose and install a [text editor](https://realpython.com/python-ides-code-editors-guide/#general-editors-and-ides-with-python-support) to write and save your code in. (I use and recommend [Atom](https://atom.io/), which is free.)
+
+### 2. Practical Skills for Total Python Novices
+I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/). While you can purchase the actual book, all of the lessons and related files are available 100% for free on his website. I return to this resource over and over again.
+
+#### Part 1: Python Programming Basics
+   - Python Basics
+   - Flow Control
+   - Functions
+   - List 
+   - Dictionaries and Structuring Data (for some reason it tok me AGES to wrap my head around using dictionaries in Python, so if you're feeling a bit stumped skip this one for now)
+   - Manipulation Strings
