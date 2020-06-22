@@ -4,7 +4,7 @@
 <img src="https://cdn.sqlitetutorial.net/wp-content/uploads/2016/01/SQLite-Python.jpg">
 </p>  
 
-After you feel a small bit more with relational databases, I recommend learning a bit of Python for 2 main reasons:
+Now that you've learned a bit about relational databases, I recommend learning a bit of Python for 2 main reasons:
 1. Automation. You can use Python to do pretty much **anything**, but it's particularly useful or things you find yourself doing over and over and over again.
     1. [insert information](https://www.sqlitetutorial.net/sqlite-python/insert/) into your database for you
     1. [Update records](https://www.sqlitetutorial.net/sqlite-python/update/) in your database (maybe you want to keep track of when a record was last modified and don't want to manually type out the date and time)
