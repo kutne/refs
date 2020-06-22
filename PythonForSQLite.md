@@ -13,4 +13,5 @@ After you feel a small bit more with relational databases, I recommend learning 
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit.
 
-### 1. Install Python and select a text editor
+### 1. Getting Set up
+    1. Install [Python 3](https://realpython.com/installing-python/)
