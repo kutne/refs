@@ -13,5 +13,6 @@ After you feel a small bit more with relational databases, I recommend learning 
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit.
 
-### 1. Getting Set up
-   - Install [Python 3](https://realpython.com/installing-python/)
+### 1. Getting Set Up
+   - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
+   - Choose and install a [text editor](https://realpython.com/python-ides-code-editors-guide/#general-editors-and-ides-with-python-support) to write and save your code in. (I use and recommend [Atom](https://atom.io/), which is free.)
