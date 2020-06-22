@@ -1,5 +1,7 @@
 # Python & SQLite
 
+![xkcd:python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxkcd.com%2F353%2F&psig=AOvVaw0h3XKthjLVdeXZrzHPneJb&ust=1592947415701000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLixmruuluoCFQAAAAAdAAAAABAH)
+
 After you feel a small bit more with relational databases, I recommend learning a bit of Python for 2 main reasons:
 1. Automation. You can use Python to do pretty much **anything**, but it's particularly useful or things you find yourself doing over and over and over again.
     1. [insert information](https://www.sqlitetutorial.net/sqlite-python/insert/) into your database for you
@@ -46,10 +48,10 @@ I recommend making use of these two tutorials together to create and manipulate 
 #### - If you DO plan to use Django  
 While it is possible to use Django with a pre-existing database, I've found it a million times easier to use Django when I used Django to create the database. I recommend completing [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) through the end of the Part 4.
 
-#### - Using DB Browser, you can spot check to see if your database reflects the changes that you expect.
-
-#### - Keep in mind things will go wrong.  
-You'll get error messages. Read the error messages- usually they will tell you which line in your code Python barfed at. Google error messages liberally - you almost certainly aren't the first person to be stumped by it.
-
-
-
+### 4. Use the above tutorials as the foundation to create your own custom research database  
+- Take a look at your database original diagram. Based on what you've learned completing the above lessons, do you want to make any changes to it? If yes, do so now!
+- Using your diagram as a guide, create your database
+   - Remember, even though you've made it through a tutorial following their examples step by step, now comes the real trick: going off script. It will be tricky and that's okay!
+   - Use DB Browser open and view yourdatabase so you can spot check to see if it reflects the changes that you expect.
+   - Keep in mind things will go wrong.  
+   - You'll get error messages. Read the error messages- usually they will tell you which line in your code Python barfed at. Google error messages liberally - you almost certainly aren't the first person to be stumped by it.
