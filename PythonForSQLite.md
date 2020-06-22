@@ -15,8 +15,7 @@ After you feel a small bit more with relational databases, I recommend learning 
 1. You can build a user interface with [Django](https://www.djangoproject.com/)
 
 <p align="center">
-<img src=https://imgs.xkcd.com/comics/python.png>
-    <a href="https://xkcd.com/353/">xkcd:python</a>
+<a href="https://xkcd.com/353/"><img src=https://imgs.xkcd.com/comics/python.png></a>
 </p>
 
 But let's not get ahead of ourselves. First we need to set up Python and play around with it a bit...
@@ -28,9 +27,14 @@ But let's not get ahead of ourselves. First we need to set up Python and play ar
    - Follow these instructions to install [Python 3](https://realpython.com/installing-python/)
    - Choose and install a [text editor](https://realpython.com/python-ides-code-editors-guide/#general-editors-and-ides-with-python-support) to write and save your code in. (I use and recommend [Atom](https://atom.io/), which is free.)
 
-### 2. Get Started Immediately with Practical Skills 
+### 2. Get Started Immediately with Practical Skills  
+
+<p align="center">
+    <img src="https://automatetheboringstuff.com/images/automate2_small_cover.png">
+    </p>
+    
 I cannot say enough good things about Al Sweigart's website [Automate the Boring Stuff](https://automatetheboringstuff.com/).   
-![automate the boring stuff with Python](https://automatetheboringstuff.com/images/automate2_small_cover.png)
+
 
 All of the lessons and related files are available 100% for free on his website. I return to this resource over and over again. Since DOING ALL THE THINGS is probably intimidating, I've flagged below the tutorials that will most effectively help you get your Python sea-legs IMHO. I recommend completing these brief tutorials **in the order given below**.
 
@@ -47,12 +51,16 @@ All of the lessons and related files are available 100% for free on his website.
 
 ### 3. Build and manipulate your database with Python 
 
-#### - If you do NOT plan to use Django
+<p align="center">
+    <a href="https://getpocket.com/explore/item/learning-to-code-is-easy-here-s-how-to-teach-yourself"><img src="https://pocket-image-cache.com/direct?resize=w2000&url=https%3A%2F%2Fwww.scotthyoung.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F07%2Fcoding-perception-vs-reality.png"></a>
+    </p>
+
+#### If you do NOT plan to use Django
 I recommend making use of these two tutorials together to create and manipulate a SQLite database file:
 - [SQlite Python](https://www.sqlitetutorial.net/sqlite-python/)
 - [A thorough guide to SQLite database operations in Python](https://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html)
 
-#### - If you DO plan to use Django  
+#### If you DO plan to use Django  
 While it is possible to use Django with a pre-existing database, I've found it a million times easier to use Django when I used Django to create the database. I recommend completing [this tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) through the end of the Part 4.
 
 ### 4. Use the above tutorials as the foundation to create your own custom research database  
