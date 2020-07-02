@@ -7,14 +7,14 @@
    - [Part 2: setting up and getting started with DB Browser for SQLite](https://datacarpentry.org/sql-socialsci/02-db-browser/index.html)
 
 #### 1b. Try your hand at working directly with writing SQL statements via the free interactive lessons from [Codecademy](https://www.codecademy.com/learn/learn-sql)
-   1. [Manipulation]()
-   1. [Queries]()
-   1. [Aggregate Functions]()
-   1. [Multiple Tables]()
+   1. Manipulation
+   1. Queries
+   1. Aggregate Functions
+   1. Multiple Tables
 
 ### 2. Diagramming Relationships
 
-### 2. Take a look at this sample database diagram from [SQLiteTutorial.net](https://www.sqlitetutorial.net/sqlite-sample-database/) and think about what what you learned in the Data Carpentry tutorial.  
+#### 2a. Take a look at this sample database diagram from [SQLiteTutorial.net](https://www.sqlitetutorial.net/sqlite-sample-database/) and think about what what you learned in the Data Carpentry tutorial.  
 - Questions to answer:
   1. How many tables are there?  
   1. What information does each table seem to capture?  
@@ -30,8 +30,6 @@
 1. Experiment with manipulating those query results using [ORDER BY](https://www.sqlitetutorial.net/sqlite-order-by/) and [WHERE](https://www.sqlitetutorial.net/sqlite-where/) clauses  
 1. Try using the wildcards with the [LIKE](https://www.sqlitetutorial.net/sqlite-like/) operator
 Whenever I need to figure out how to write a SQLite statement to execute, this tutorial is one of my first stops.
-
-
 
 ### 4. Read about the [database design](http://www.mappingsenufo.org/database-design) for the "MAPPING SENUFO: ART AND PLACE IN A DYNAMIC WEST AFRICAN REGION" project  
    - How did this project accomodate uncertainties like variant spelling?
